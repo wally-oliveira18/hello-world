@@ -1,1 +1,1 @@
-Wallison, estudante de Sistemas de Informação na PUC-MG e entusiasta de Machine Learning. Graduado em Física e com especialização em Teoria da Relatividade Geral, espero aplicar meus conhecimentos adquiridos em áreas que envolvam Software Engineer e Data Science. 
+
